@@ -10,6 +10,7 @@ This was made as a class project of Yonsei University class MEU6505: Optimal Con
 - matplotlib == 3.5.2
 - casadi == 3.5.5
 - gym == 0.24.1
+- bezier == 2021.2.12
 - redis == 4.4.0
 
 Also, you should download the [acados](https://github.com/acados/acados) package.
