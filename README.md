@@ -4,15 +4,15 @@ Nonlinear MPC with reference Bezier Curve in Autonomous Driving
 This was made as a class project of Yonsei University class MEU6505: Optimal Control and Reinforcement Learning.
 
 ## Dependencies
-- python==3.8
+- python == 3.8
 - numpy == 1.21.6
 - scipy == 1.9.0
 - matplotlib == 3.5.2
 - casadi == 3.5.5
 - gym == 0.24.1
-- redis  
+- redis == 4.4.0
 
-You should download the [acados](https://github.com/acados/acados) package.
+Also, you should download the [acados](https://github.com/acados/acados) package.
 
 ## To Run
 ```
